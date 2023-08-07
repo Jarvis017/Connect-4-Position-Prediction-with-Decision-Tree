@@ -1,5 +1,4 @@
-# Connect-4 Winning Prediction with Decision Tree
-Decision tree model for predicting the position of a piece on a Connect-4
+
 
 ## About the project
 
